@@ -1,0 +1,15 @@
+Menu
+
+Attributes:
+
+nameOfMenu (string)
+numberOfPages (integer)
+menuItemASpecial (boolean)
+minutesToReadMenu (float)
+
+Methods:
+
+changeNameOfMenu (changes the nameOfMenu attribute)
+changeNumberOfPages (changes the numberOfPages attribute)
+isMenuItemASpecial (returns isMenuItemASpecial as true or false)
+getPagesPerMinute (returns numberOfPages / minutesToReadMenu)
