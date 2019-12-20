@@ -1,0 +1,15 @@
+Employee
+
+Attributes:
+
+name (string)
+hoursWorked (integer)
+employeeOfTheMonth (boolean)
+tipsMade (float)
+
+Methods:
+
+changeName (changes the name attribute)
+changeHoursWorked (changes the hoursWorked attribute)
+isEmployeeOfTheMonth (returns employeeOfTheMonth as true or false)
+getTipsMadePerHour (returns tipsMade / hoursWorked)
