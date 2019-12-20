@@ -1,0 +1,11 @@
+Instance: Maggianos
+
+title: "lunch"
+numberOfPages: 10
+menuItemASpecial: true
+minutesToReadMenu: 15.5
+
+changeNameOfMenu ("brunch")
+changeNumberOfPages (8)
+isMenuItemASpecial (returns true)
+getPagesPerMinute (returns 8 / 15.5 = .52)
