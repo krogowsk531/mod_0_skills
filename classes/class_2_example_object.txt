@@ -1,0 +1,11 @@
+Instance: Waiter
+
+name: "John Doe"
+hoursWorked: 25
+employeeOfTheMonth: true
+tipsMade: 100.25
+
+changeName ("Jane Doe")
+changeHoursWorked (40)
+isEmployeeOfTheMonth (returns true)
+getTipsMadePerHour (returns 100.25 / 40  = 2.50)
