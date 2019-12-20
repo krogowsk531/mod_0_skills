@@ -1,0 +1,23 @@
+1 Decide if Turing is a good fit for you
+  1.1 Figure out if you like coding
+    1.1.1 Take "Try Coding"
+      1.1.1.1 expose yourself to front and back end engineering
+2 Apply for Turing
+  2.1 Decide which program to apply for
+    2.1.1 Go online and pass analytical test
+      2.1.1.1 schedule interview with current Turing staff member
+3 Get accepted to Turing
+  3.1 Wait for email from Erin that says you have been accepted
+    3.1.1 Throw a party when you are accepted
+4 Prepare for life at Turing
+  4.1 Move to greater Denver area
+    4.1.1 Find a place to live
+    4.1.2 Find best source of transportation
+      4.1.2.1 get RTD bus pass
+  4.2 Start Mod 0
+    4.2.1 Set up computer
+    4.2.2 Attend remote classes
+    4.2.3 Complete homework
+    4.2.4 Pass Mod 0
+5 Start school
+  5.1  Go to first day of class on 1/27/2020
