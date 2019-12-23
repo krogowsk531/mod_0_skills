@@ -1,6 +1,6 @@
 Instance: Maggianos
 
-title: "lunch"
+nameOfMenu: "lunch"
 numberOfPages: 10
 menuItemASpecial: true
 minutesToReadMenu: 15.5
